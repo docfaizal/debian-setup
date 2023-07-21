@@ -30,6 +30,8 @@ sudo apt install -y exa
 # my favs
 sudo apt install scrot atril mpv figlet sxiv l3afpad galculator build-essential libpam0g-dev libxcb-xkb-dev
 
+# dwm packages
+sudo nala install -y libx11-dev libxinerama-dev libxcursor-dev libharfbuzz-dev libxft-dev libfreetype6-dev libfontconfig1-dev
 # Ly installation
 git clone --recurse-submodules https://github.com/fairyglade/ly
 cd ly
