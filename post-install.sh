@@ -33,7 +33,7 @@ sudo apt install -y neofetch lxappearance feh fonts-recommended fonts-font-aweso
 sudo apt install -y exa
 
 # my favs
-sudo apt install ncdu scrot atril aria2 mpv figlet sxiv htop
+sudo apt install ncdu scrot atril aria2 mpv figlet sxiv htop clementine
 
 # dwm packages
 sudo apt install -y libx11-dev libxinerama-dev libxcursor-dev libharfbuzz-dev libxft-dev libfreetype6-dev libfontconfig1-dev libimlib2-dev 
