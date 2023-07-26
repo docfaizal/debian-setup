@@ -49,8 +49,8 @@ pacstall -I neovim
 pacstall -I smartgit
 
 # Ly installation
-# git clone --recurse-submodules https://github.com/fairyglade/ly
-# cd ly
-# make
-# sudo make install installsystemd
-# sudo systemctl enable ly
+git clone --recurse-submodules https://github.com/fairyglade/ly
+cd ly
+make
+sudo make install installsystemd
+sudo systemctl enable ly
